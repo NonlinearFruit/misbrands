@@ -308,6 +308,9 @@ github
 ![gitea](github-gitea.svg)
 
 ### gitlab
+![gitlab](github-gitlab-02.svg)
+
+### gitlab
 ![gitlab](github-gitlab.svg)
 
 </details>
@@ -985,6 +988,9 @@ gitlab
 
 ### gitea
 ![gitea](gitea-gitlab.svg)
+
+### github
+![github](github-gitlab-02.svg)
 
 ### github
 ![github](github-gitlab.svg)
