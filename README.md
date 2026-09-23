@@ -953,6 +953,9 @@ fedora
 gitea
 </summary>
 
+### github
+![github](github-gitea.svg)
+
 ### gitlab
 ![gitlab](gitlab-gitea.svg)
 
