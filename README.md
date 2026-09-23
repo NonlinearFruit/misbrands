@@ -295,6 +295,9 @@ ggplot2
 github
 </summary>
 
+### gitea
+![gitea](github-gitea.svg)
+
 ### gitlab
 ![gitlab](github-gitlab.svg)
 
@@ -303,6 +306,9 @@ github
 <summary>
 gitlab
 </summary>
+
+### gitea
+![gitea](gitlab-gitea.svg)
 
 ### github
 ![github](gitlab-github.svg)
@@ -940,6 +946,15 @@ fedora
 
 ### facebook
 ![facebook](facebook-fedora.svg)
+
+</details>
+<details>
+<summary>
+gitea
+</summary>
+
+### gitlab
+![gitlab](gitlab-gitea.svg)
 
 </details>
 <details>

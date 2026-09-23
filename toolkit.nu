@@ -190,9 +190,9 @@ export def misbrands [] {
   | each {|it|
     $it.name
     | parse -r '^(?<text>[^-]+)-(?<style>[^-]+)-?(?<index>\d+)?\.(?<type>.+)$'
-    | get -i 0
+    | get --optional 0
     | default {}
-    | update index { if ($in | is-empty) { 1 } else { into int } }
+    | upsert index { if ($in | is-empty) { 1 } else { into int } }
     | insert path $it.name
   }
 }
