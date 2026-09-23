@@ -292,6 +292,15 @@ ggplot2
 </details>
 <details>
 <summary>
+gitea
+</summary>
+
+### gitlab
+![gitlab](gitea-gitlab.svg)
+
+</details>
+<details>
+<summary>
 github
 </summary>
 
@@ -973,6 +982,9 @@ github
 <summary>
 gitlab
 </summary>
+
+### gitea
+![gitea](gitea-gitlab.svg)
 
 ### github
 ![github](github-gitlab.svg)
